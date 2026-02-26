@@ -1,4 +1,5 @@
-## Hi there 👋
+# Brickington Studios
+This is the official GitHub page of Brickington Studios
 
 <!--
 
